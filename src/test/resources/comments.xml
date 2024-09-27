@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="UI Comments tests">
+
+    <test name="Comments tests">
+        <classes>
+            <class name="ui.tests.CommentTest"/>
+        </classes>
+    </test>
+</suite>
