@@ -33,3 +33,4 @@ Test suits by functionality:
 - Ptask - for task UI checks
 - Papi-regression - for all API tests
 - mvn clean test -Ptask -Dbrowser=chrome -Dheadless=false
+
